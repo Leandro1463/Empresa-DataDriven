@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+IdTipoGasto,Descripcion,Monto_Aproximado
+1,Alquiler,1000
+2,Servicios,300
+3,Impuestos,100
+=======
+IdTipoGasto,Descripcion,Monto_Aproximado
+1,Alquiler,1000
+2,Servicios,300
+3,Impuestos,100
+>>>>>>> f5646ac01e7e17c323cd8af218445b23c69826e6
+4,Sueldos y Jornales,1000
